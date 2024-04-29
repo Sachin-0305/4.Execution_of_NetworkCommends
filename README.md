@@ -27,6 +27,26 @@ This commands includes
 <BR>
 
 ## Output
+## PING:
+![Screenshot 2024-04-29 141307](https://github.com/Sachin-0305/4.Execution_of_NetworkCommends/assets/149985717/cafbe774-9e55-4273-8dbe-54dcf081b015)
+## TRACERT:
+![Screenshot 2024-04-29 141653](https://github.com/Sachin-0305/4.Execution_of_NetworkCommends/assets/149985717/4eb8336b-676f-4288-af03-2702274a4f7d)
+
+## IPCONFIG:
+![Screenshot 2024-04-29 141807](https://github.com/Sachin-0305/4.Execution_of_NetworkCommends/assets/149985717/6a565911-6b71-4b78-9ac2-b2b99207e685)
+
+## NETSTAT - ano:
+![Screenshot 2024-04-29 141930](https://github.com/Sachin-0305/4.Execution_of_NetworkCommends/assets/149985717/9516dac3-ab9a-4432-becd-8c0ab6276497)
+
+## FTP:
+![Screenshot 2024-04-29 142152](https://github.com/Sachin-0305/4.Execution_of_NetworkCommends/assets/149985717/5c53c12f-70cc-479e-b441-c7dc5eb6424d)
+
+## CURL:
+![Screenshot 2024-04-29 142330](https://github.com/Sachin-0305/4.Execution_of_NetworkCommends/assets/149985717/7c283b52-783a-4543-8d82-6c18f7eaf13d)
+
+## NSLOOKUP:
+![Screenshot 2024-04-29 142406](https://github.com/Sachin-0305/4.Execution_of_NetworkCommends/assets/149985717/b77a14a7-b426-4ca5-a4ab-9594c16b684d)
+
 
 ## Result
 Thus Execution of Network commands Performed 
